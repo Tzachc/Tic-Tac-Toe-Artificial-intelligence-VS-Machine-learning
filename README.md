@@ -20,6 +20,8 @@ I checked Logistic Regression, Decision Tree and KNN against MinMax and then jus
 
 ![image](https://user-images.githubusercontent.com/57837594/157890557-97f231d5-77ec-4095-bb41-61c1a2f8da20.png)
 <br />
+So in this example we can see the improvements in the result when the data is too small against big data.
+
 For more info and results please check my code and my presentation attached.
 ## Tic Tac Toe prediction:
 simple uses of Machine learning algorithms to check the accuracy of ML algorithms to predict the winner of finished tic-tac-toe game boards.
