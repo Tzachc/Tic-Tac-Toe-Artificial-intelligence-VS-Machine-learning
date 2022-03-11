@@ -14,6 +14,8 @@ MinMax is an optimal algorithm for tic tac toe game, so I wanted to check how go
 * Implementation of the board and compitable with AI algorithms.
 * Implement the AI (MinMax).<br />
 
+I implemented random walk generator, that way I can train my model (Random walk VS. MinMax).
+
 I checked Logistic Regression, Decision Tree and KNN against MinMax and then just for fun I tried to see what results i'll get if i'll run ML vs. ML.<br />
 
 ![image](https://user-images.githubusercontent.com/57837594/157890557-97f231d5-77ec-4095-bb41-61c1a2f8da20.png)
